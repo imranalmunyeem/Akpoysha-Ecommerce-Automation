@@ -1,0 +1,8 @@
+{
+    "baseUrl":"https://akpoysha.com/",
+
+    "env": {
+        "loginPage":"",
+        "registrationPage": "https://akpoysha.com/my-account/?action=register"
+    }
+}

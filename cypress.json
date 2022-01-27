@@ -3,6 +3,7 @@
 
     "env": {
         "loginPage":"",
-        "registrationPage": "https://akpoysha.com/my-account/?action=register"
+        "registrationPage": "https://akpoysha.com/my-account/?action=register",
+        "contactPage": "https://akpoysha.com/contact-us/"
     }
 }

@@ -4,7 +4,7 @@ import SearchPO from "../support/page_objects/SearchPO";
 
  describe('Cart Section', ()=>{
      it('Navigate to login', ()=>{
-        cy.login('ialmunyeem@gmail.com', 'akpoysha007'); //running from command
+        cy.login('nforget32@gmail.com', '123456'); //running from command
         
      })
      it('Search for product and click on it', ()=>{

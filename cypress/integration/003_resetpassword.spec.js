@@ -2,6 +2,6 @@
 
 describe("Reset", ()=>{
     it('Reset password functionality should be worked successfully', ()=>{
-        cy.resetPassword('ialmunyeem@gmail.com');  //running from command
+        cy.resetPassword('nforget32@gmail.com');  //running from command
     })
 })
